@@ -1,0 +1,11 @@
+{
+    "name": "manadev/Mana_Db",
+    "type": "magento-module",
+    "description": "",
+    "license": "",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "manadev/Mana_Core": "*"
+    },
+    "minimum-stability": "dev"
+}

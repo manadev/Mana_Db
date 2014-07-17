@@ -1,8 +1,8 @@
 {
     "name": "manadev/Mana_Db",
     "type": "magento-module",
-    "description": "",
-    "license": "",
+    "description": "Advanced database handling libraries",
+    "license": "OSL-3.0",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
         "manadev/Mana_Core": "*"

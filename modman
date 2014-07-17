@@ -1,0 +1,4 @@
+code                                            app/code/local/Mana/Db
+tests                                           tests/Mana/Db/Test
+module.xml                                      app/etc/modules/Mana_Db.xml
+translate.csv                                   app/locale/en_US/Mana_Db.csv

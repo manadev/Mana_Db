@@ -1,0 +1,17 @@
+code                                            app/code/local/Mana/Db
+tests                                           tests/Mana/Db/Test
+module.xml                                      app/etc/modules/Mana_Db.xml
+email                                           app/locale/en_US/template/email/mana_db
+translate.csv                                   app/locale/en_US/Mana_Db.csv
+scripts.js                                      js/mana/db.js
+scripts                                         js/mana/db
+frontend/layout.xml                             app/design/frontend/base/default/layout/mana_db.xml
+frontend/template                               app/design/frontend/base/default/template/mana/db
+frontend/js/scripts.js                          skin/frontend/base/default/js/mana_db.js
+frontend/css/styles.css                         skin/frontend/base/default/css/mana_db.css
+frontend/images                                 skin/frontend/base/default/images/mana_db
+backend/layout.xml                              app/design/adminhtml/default/default/layout/mana_db.xml
+backend/template                                app/design/adminhtml/default/default/template/mana/db
+backend/js/scripts.js                           skin/adminhtml/default/default/js/mana_db.js
+backend/css/styles.css                          skin/adminhtml/default/default/css/mana_db.css
+backend/images                                  skin/adminhtml/default/default/images/mana_db
